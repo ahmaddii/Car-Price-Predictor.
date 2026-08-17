@@ -11,6 +11,20 @@ This project includes:
 ## Live Demo
 You can run the app locally or deploy it to any hosting service that supports Python/FastAPI.
 
+## Screenshots
+
+### Homepage
+![Screenshot 1](screenshots/1.png)
+
+### Prediction Form
+![Screenshot 2](screenshots/2.png)
+
+### Results
+![Screenshot 3](screenshots/3.png)
+
+### Success Message
+![Screenshot 4](screenshots/4.png)
+
 ## Project Structure
 
 ```
